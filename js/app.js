@@ -91,6 +91,7 @@ function dayShift(e) {
 function weatherIcon(e) {
     const chooseIcon = {
         "algumas nuvens": '<i class="fa-solid fa-cloud-moon"></i>',
+        "nuvens dispersas": '<i class="fa-solid fa-cloud-moon"></i>',
         "céu limpo": '<i class="fa-solid fa-moon"></i>',
         "nublado": '<i class="fa-solid fa-cloud"></i>',
         "chuva moderada": '<i class="fa-solid fa-cloud-rain"></i>',
