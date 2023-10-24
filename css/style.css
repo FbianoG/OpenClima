@@ -8,6 +8,7 @@
 body {
     background: url("../imagens/planetsWallpaper.jpeg");
     backdrop-filter: blur(3px);
+    -webkit-backdrop-filter: blur(3px);
 }
 
 .container {
