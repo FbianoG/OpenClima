@@ -6,9 +6,10 @@
 }
 
 body {
-    background: url("../imagens/planetsWallpaper.jpeg");
+    background: url("../imagens/Germany_Lake_Mountains_Forests_Stones_Scenery_Lake_525086_3000x2000.jpg");
     backdrop-filter: blur(3px);
     -webkit-backdrop-filter: blur(3px);
+
 }
 
 .container {
